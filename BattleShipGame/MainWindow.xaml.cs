@@ -1,8 +1,6 @@
-﻿using System;
-using System.Windows;
+﻿using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Input;
-using System.Windows.Media;
 using BattleShip.Models;
 using BattleShip.Services;
 using BattleShip.Utilities;
@@ -26,8 +24,6 @@ namespace BattleShip
             InitializeServices();
             InitializeGame();
         }
-
-        #region Inicjalizacja
 
         private void InitializeServices()
         {
@@ -99,10 +95,6 @@ namespace BattleShip
             }
         }
 
-        #endregion
-
-        #region Event Handlers - Połączenie
-
         private async void CreateGameButton_Click(object sender, RoutedEventArgs e)
         {
             try
@@ -150,10 +142,6 @@ namespace BattleShip
             gameLogic.ResetGame();
             ResetUI();
         }
-
-        #endregion
-
-        #region Event Handlers - Rozgrywka
 
         private void PlayerCell_Click(object sender, RoutedEventArgs e)
         {
@@ -223,9 +211,6 @@ namespace BattleShip
             EnableShipPlacement(false);
         }
 
-        #endregion
-
-        #region Event Handlers - Chat
 
         private void SendChatButton_Click(object sender, RoutedEventArgs e)
         {
@@ -250,10 +235,6 @@ namespace BattleShip
                 ChatInputTextBox.Clear();
             }
         }
-
-        #endregion
-
-        #region Network Event Handlers
 
         private void OnMessageReceived(string message)
         {
@@ -345,9 +326,6 @@ namespace BattleShip
             EndGame(playerWon);
         }
 
-        #endregion
-
-        #region Game Logic Event Handlers
 
         private void OnGameStatusChanged(string status)
         {
@@ -367,10 +345,6 @@ namespace BattleShip
             });
         }
 
-        #endregion
-
-        #region Chat Event Handlers
-
         private void OnChatMessageAdded(string message)
         {
             Dispatcher.Invoke(() => {
@@ -379,9 +353,6 @@ namespace BattleShip
             });
         }
 
-        #endregion
-
-        #region UI Updates
 
         private void UpdateUI()
         {
@@ -511,16 +482,10 @@ namespace BattleShip
                 playerWon ? MessageBoxImage.Information : MessageBoxImage.Exclamation);
         }
 
-        #endregion
-
-        #region Window Events
-
         protected override void OnClosed(EventArgs e)
         {
             networkService?.Disconnect();
             base.OnClosed(e);
         }
-
-        #endregion
     }
 }

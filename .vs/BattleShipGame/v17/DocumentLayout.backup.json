@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\macie\\Documents\\GitHub\\BattleShipGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B89413C-6B70-4820-A43A-D015AC1C0EDE}|BattleShipGame\\BattleShipGame.csproj|c:\\users\\macie\\documents\\github\\battleshipgame\\battleshipgame\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B89413C-6B70-4820-A43A-D015AC1C0EDE}|BattleShipGame\\BattleShipGame.csproj|solutionrelative:battleshipgame\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B89413C-6B70-4820-A43A-D015AC1C0EDE}|BattleShipGame\\BattleShipGame.csproj|c:\\users\\macie\\documents\\github\\battleshipgame\\battleshipgame\\utilities\\gameconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B89413C-6B70-4820-A43A-D015AC1C0EDE}|BattleShipGame\\BattleShipGame.csproj|solutionrelative:battleshipgame\\utilities\\gameconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B89413C-6B70-4820-A43A-D015AC1C0EDE}|BattleShipGame\\BattleShipGame.csproj|c:\\users\\macie\\documents\\github\\battleshipgame\\battleshipgame\\services\\networkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B89413C-6B70-4820-A43A-D015AC1C0EDE}|BattleShipGame\\BattleShipGame.csproj|solutionrelative:battleshipgame\\services\\networkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B89413C-6B70-4820-A43A-D015AC1C0EDE}|BattleShipGame\\BattleShipGame.csproj|c:\\users\\macie\\documents\\github\\battleshipgame\\battleshipgame\\services\\gamelogicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B89413C-6B70-4820-A43A-D015AC1C0EDE}|BattleShipGame\\BattleShipGame.csproj|solutionrelative:battleshipgame\\services\\gamelogicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B89413C-6B70-4820-A43A-D015AC1C0EDE}|BattleShipGame\\BattleShipGame.csproj|c:\\users\\macie\\documents\\github\\battleshipgame\\battleshipgame\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B89413C-6B70-4820-A43A-D015AC1C0EDE}|BattleShipGame\\BattleShipGame.csproj|solutionrelative:battleshipgame\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B89413C-6B70-4820-A43A-D015AC1C0EDE}|BattleShipGame\\BattleShipGame.csproj|c:\\users\\macie\\documents\\github\\battleshipgame\\battleshipgame\\models\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B89413C-6B70-4820-A43A-D015AC1C0EDE}|BattleShipGame\\BattleShipGame.csproj|solutionrelative:battleshipgame\\models\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B89413C-6B70-4820-A43A-D015AC1C0EDE}|BattleShipGame\\BattleShipGame.csproj|c:\\users\\macie\\documents\\github\\battleshipgame\\battleshipgame\\models\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B89413C-6B70-4820-A43A-D015AC1C0EDE}|BattleShipGame\\BattleShipGame.csproj|solutionrelative:battleshipgame\\models\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B89413C-6B70-4820-A43A-D015AC1C0EDE}|BattleShipGame\\BattleShipGame.csproj|c:\\users\\macie\\documents\\github\\battleshipgame\\battleshipgame\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B89413C-6B70-4820-A43A-D015AC1C0EDE}|BattleShipGame\\BattleShipGame.csproj|solutionrelative:battleshipgame\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatService.cs",
+              "DocumentMoniker": "C:\\Users\\macie\\Documents\\GitHub\\BattleShipGame\\BattleShipGame\\Services\\ChatService.cs",
+              "RelativeDocumentMoniker": "BattleShipGame\\Services\\ChatService.cs",
+              "ToolTip": "C:\\Users\\macie\\Documents\\GitHub\\BattleShipGame\\BattleShipGame\\Services\\ChatService.cs",
+              "RelativeToolTip": "BattleShipGame\\Services\\ChatService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T20:10:44.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ship.cs",
+              "DocumentMoniker": "C:\\Users\\macie\\Documents\\GitHub\\BattleShipGame\\BattleShipGame\\Models\\Ship.cs",
+              "RelativeDocumentMoniker": "BattleShipGame\\Models\\Ship.cs",
+              "ToolTip": "C:\\Users\\macie\\Documents\\GitHub\\BattleShipGame\\BattleShipGame\\Models\\Ship.cs",
+              "RelativeToolTip": "BattleShipGame\\Models\\Ship.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T20:10:40.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameBoard.cs",
+              "DocumentMoniker": "C:\\Users\\macie\\Documents\\GitHub\\BattleShipGame\\BattleShipGame\\Models\\GameBoard.cs",
+              "RelativeDocumentMoniker": "BattleShipGame\\Models\\GameBoard.cs",
+              "ToolTip": "C:\\Users\\macie\\Documents\\GitHub\\BattleShipGame\\BattleShipGame\\Models\\GameBoard.cs",
+              "RelativeToolTip": "BattleShipGame\\Models\\GameBoard.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAzwKgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T20:10:35.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\macie\\Documents\\GitHub\\BattleShipGame\\BattleShipGame\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BattleShipGame\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\macie\\Documents\\GitHub\\BattleShipGame\\BattleShipGame\\MainWindow.xaml.cs",
+              "RelativeToolTip": "BattleShipGame\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T20:07:12.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameLogicService.cs",
+              "DocumentMoniker": "C:\\Users\\macie\\Documents\\GitHub\\BattleShipGame\\BattleShipGame\\Services\\GameLogicService.cs",
+              "RelativeDocumentMoniker": "BattleShipGame\\Services\\GameLogicService.cs",
+              "ToolTip": "C:\\Users\\macie\\Documents\\GitHub\\BattleShipGame\\BattleShipGame\\Services\\GameLogicService.cs",
+              "RelativeToolTip": "BattleShipGame\\Services\\GameLogicService.cs",
+              "ViewState": "AgIAAIEBAAAAAAAAAAAYwKYBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T20:10:48.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NetworkService.cs",
+              "DocumentMoniker": "C:\\Users\\macie\\Documents\\GitHub\\BattleShipGame\\BattleShipGame\\Services\\NetworkService.cs",
+              "RelativeDocumentMoniker": "BattleShipGame\\Services\\NetworkService.cs",
+              "ToolTip": "C:\\Users\\macie\\Documents\\GitHub\\BattleShipGame\\BattleShipGame\\Services\\NetworkService.cs",
+              "RelativeToolTip": "BattleShipGame\\Services\\NetworkService.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAADwv3UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T20:10:54.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\macie\\Documents\\GitHub\\BattleShipGame\\BattleShipGame\\Models\\Enums.cs",
+              "RelativeDocumentMoniker": "BattleShipGame\\Models\\Enums.cs",
+              "ToolTip": "C:\\Users\\macie\\Documents\\GitHub\\BattleShipGame\\BattleShipGame\\Models\\Enums.cs",
+              "RelativeToolTip": "BattleShipGame\\Models\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T20:10:28.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameConstants.cs",
+              "DocumentMoniker": "C:\\Users\\macie\\Documents\\GitHub\\BattleShipGame\\BattleShipGame\\Utilities\\GameConstants.cs",
+              "RelativeDocumentMoniker": "BattleShipGame\\Utilities\\GameConstants.cs",
+              "ToolTip": "C:\\Users\\macie\\Documents\\GitHub\\BattleShipGame\\BattleShipGame\\Utilities\\GameConstants.cs",
+              "RelativeToolTip": "BattleShipGame\\Utilities\\GameConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T20:07:28.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

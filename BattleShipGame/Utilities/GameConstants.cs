@@ -16,11 +16,11 @@
 
         public static readonly string[] SHIP_NAMES =
         {
-            "piątka",
-            "czwórka",
-            "trójka",
-            "trójka",
-            "dwójka"
+            "Lotniskowiec",
+            "Krążownik",
+            "Niszczyciel",
+            "Łódź podwodna",
+            "Patrol"
         };
     }
 }
